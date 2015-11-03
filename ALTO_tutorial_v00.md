@@ -2,23 +2,23 @@
 
 ## Table of Contents
 
-- 1 [Installing and Starting ALTO Server]()
+- 1  [Installing and Starting ALTO Server](#Installing and Starting ALTO Server)
 	- 1.1  [Build from source code]()
 	- 1.2  [Run ALTO Server]()
 
-- 2 [Usage]()
+- 2  [Usage]()
 	- 2.1 [Managing and Querying Data in ALTO]()
 	- 2.2 [Use Cases]()
 
-- 3 [Connecting the Network to the Controller]()
+- 3  [Connecting the Network to the Controller]()
 	- 3.1 [Using Mininet for Emulation]()
 
-- 4 [Alto Client]()
+- 4  [Alto Client]()
 	- 4.1 [Querying the Properties]()
 	- 4.2 [Using Mininet for Emulation]()
 	- 4.3 [Server Selection]()
 
-- 5 [Appendix]()
+- 5  [Appendix]()
 	- 5.1 [Appendix A: Common Problem List]()
 
 ## Installing and Starting ALTO Server
