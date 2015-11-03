@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- 1  [Installing and Starting ALTO Server](#Installing and Starting ALTO Server)
+- 1  [Installing and Starting ALTO Server](#sectionOne)
 	- 1.1  [Build from source code]()
 	- 1.2  [Run ALTO Server]()
 
@@ -21,6 +21,8 @@
 - 5  [Appendix]()
 	- 5.1 [Appendix A: Common Problem List]()
 
+
+<a name="sectionOne" /a>
 ## Installing and Starting ALTO Server
 
 ### Build from source code
