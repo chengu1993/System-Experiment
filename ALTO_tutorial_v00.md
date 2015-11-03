@@ -15,8 +15,7 @@
 
 - [4. Alto Client](#section4)
 	- 4.1 [Querying the Properties](#section4.1)
-	- 4.2 [Using Mininet for Emulation](#section4.2)
-	- 4.3 [Server Selection](#section4.3)
+	- 4.2 [Server Selection](#section4.2)
 
 - [5. Appendix](#section5)
 	- 5.1 [Appendix A: Common Problem List](#section5.1)
